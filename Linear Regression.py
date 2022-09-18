@@ -3,7 +3,8 @@ import matplotlib.pyplot as plot
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-
+#Nhan Vo
+#CECS 456 Sec 03 Fall 2022
 #import the csv data
 csvData = pd.read_csv("Salary_Data.csv")
 
